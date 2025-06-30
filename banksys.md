@@ -12,7 +12,7 @@
 </ul>
 
   <h2>Execução:</h2>
-  <p>Para executar o código, basta rodar o script Python em um ambiente compatível com a versão 3.x do Python. Certifique-se de ter o interpretador Python instalado em sua máquina.</p>
-  <p>Ao iniciar o programa, será exibido um menu com as opções disponíveis. Digite a letra correspondente à operação desejada e siga as instruções fornecidas.</p>
+  <p>Para utilizar o código, basta executá-lo em um ambiente que seja compatível com a versão 3.x do Python. Verifique se o interpretador do Python está instalado corretamente no seu computador.</p>
+  <p>Ao iniciar a aplicação, será apresentado um menu com as opções disponíveis. Basta digitar a letra referente à ação que deseja realizar e seguir as orientações exibidas na tela.</p>
   <</body>
 </html>
