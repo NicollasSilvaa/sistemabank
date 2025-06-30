@@ -1,5 +1,5 @@
 <body>
-  <h1>Sistema simples de uma Conta Bancária</h1>
+  <h1>Sistema simples de Conta Bancária</h1>
   <p>Este repositório contém um código em Python e é um sistema bancário básico permite visualizar o extrato da sua conta, o saque e também depositar o dinheiro.</p>
   <p>Também é possível visualizar o horário em que houve o saque e o depósito.</p>
 
